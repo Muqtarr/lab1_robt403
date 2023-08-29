@@ -1,0 +1,8 @@
+prefix=/tmp/guest-l8j3cg/lab1/install
+
+Name: exr0
+Description: Description of exr0
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
